@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>OSAKANA</title>
   
-  
+  <subtitle>一緒に夢を見よう</subtitle>
   <link href="https://osakana373.github.io/atom.xml" rel="self"/>
   
   <link href="https://osakana373.github.io/"/>
