@@ -45,8 +45,8 @@
   
   <entry>
     <title>操作系统之可执行文件篡改</title>
-    <link href="https://osakana373.github.io/Undergraduate-computer-course/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B9%8B%E5%8F%AF%E6%89%A7%E8%A1%8C%E6%96%87%E4%BB%B6%E7%AF%A1%E6%94%B9/"/>
-    <id>https://osakana373.github.io/Undergraduate-computer-course/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B9%8B%E5%8F%AF%E6%89%A7%E8%A1%8C%E6%96%87%E4%BB%B6%E7%AF%A1%E6%94%B9/</id>
+    <link href="https://osakana373.github.io/Undergraduate-computer-course/OS/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B9%8B%E5%8F%AF%E6%89%A7%E8%A1%8C%E6%96%87%E4%BB%B6%E7%AF%A1%E6%94%B9/"/>
+    <id>https://osakana373.github.io/Undergraduate-computer-course/OS/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B9%8B%E5%8F%AF%E6%89%A7%E8%A1%8C%E6%96%87%E4%BB%B6%E7%AF%A1%E6%94%B9/</id>
     <published>2021-12-09T07:40:49.000Z</published>
     <updated>2021-12-13T17:10:46.810Z</updated>
     
@@ -64,9 +64,9 @@
     
     <category term="计算机本科课程" scheme="https://osakana373.github.io/categories/Undergraduate-computer-course/"/>
     
-    <category term="操作系统" scheme="https://osakana373.github.io/categories/Undergraduate-computer-course/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    <category term="操作系统" scheme="https://osakana373.github.io/categories/Undergraduate-computer-course/OS/"/>
     
-    <category term="Oranges" scheme="https://osakana373.github.io/categories/Undergraduate-computer-course/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/Oranges/"/>
+    <category term="Oranges" scheme="https://osakana373.github.io/categories/Undergraduate-computer-course/OS/Oranges/"/>
     
     
     <category term="计算机本科课程" scheme="https://osakana373.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%9C%AC%E7%A7%91%E8%AF%BE%E7%A8%8B/"/>
@@ -298,8 +298,8 @@
   
   <entry>
     <title>操作系统之内存管理</title>
-    <link href="https://osakana373.github.io/Undergraduate-computer-course/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B9%8B%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/"/>
-    <id>https://osakana373.github.io/Undergraduate-computer-course/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B9%8B%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/</id>
+    <link href="https://osakana373.github.io/Undergraduate-computer-course/OS/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B9%8B%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/"/>
+    <id>https://osakana373.github.io/Undergraduate-computer-course/OS/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B9%8B%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/</id>
     <published>2021-11-29T06:44:30.000Z</published>
     <updated>2021-12-13T17:10:57.810Z</updated>
     
@@ -319,9 +319,9 @@
     
     <category term="计算机本科课程" scheme="https://osakana373.github.io/categories/Undergraduate-computer-course/"/>
     
-    <category term="操作系统" scheme="https://osakana373.github.io/categories/Undergraduate-computer-course/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    <category term="操作系统" scheme="https://osakana373.github.io/categories/Undergraduate-computer-course/OS/"/>
     
-    <category term="Oranges" scheme="https://osakana373.github.io/categories/Undergraduate-computer-course/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/Oranges/"/>
+    <category term="Oranges" scheme="https://osakana373.github.io/categories/Undergraduate-computer-course/OS/Oranges/"/>
     
     
     <category term="计算机本科课程" scheme="https://osakana373.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%9C%AC%E7%A7%91%E8%AF%BE%E7%A8%8B/"/>
